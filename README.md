@@ -1,3 +1,20 @@
+SPD PVP (or PDS PVP) ==> ALPHA
+=====================
+A pixel dungeon multiplayer experience. 
+
+2 Players, one is a Runner of the dungeon levels, the other is the Builder of the dungeon levels.
+
+If the Runner dies the Builder Wins.
+
+Hot Seat Modification First.
+
+Online Modification for SPD PVP Second.
+
+Implement all Mod types for PVP play (EVENTUALLY).
+
+
+Below is the notes of the read me for the Shattered Pixel Dungeon modification that the SPD PVP mod will be derived from.
+
 Shattered Pixel Dungeon
 =======================
 
