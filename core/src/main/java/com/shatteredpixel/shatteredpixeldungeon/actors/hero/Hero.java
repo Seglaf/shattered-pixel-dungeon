@@ -117,6 +117,8 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashSet;
 
+//Hero Class is Synonymous with Runner Class
+//Rename once SPD PVP implementation has made it to at least Alpha
 public class Hero extends Char {
 
 	{
@@ -1393,6 +1395,14 @@ public class Hero extends Char {
 			}
 			Dungeon.level.press(pos, this);
 		}
+		
+		/*
+		moveCount++;
+		if(moveCount >= gameSpeed){
+			Glog.i(Message.Capi)
+		}
+		*/
+		
 	}
 	
 	@Override
